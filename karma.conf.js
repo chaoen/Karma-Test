@@ -3,7 +3,7 @@ module.exports = (config) => {
     
     autoWatch: true,
 
-    singleRun: true,
+    singleRun: false,
     
     browsers: [
       'Chrome',
